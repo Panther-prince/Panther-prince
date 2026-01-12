@@ -126,41 +126,124 @@ Learning:
 
 ### 🧠 AI/ML & Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<br>Python
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="55" width="55" alt="Keras" />
+<br>Keras
+</td>
+<td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" alt="Scikit-Learn" />
+<br>Scikit-Learn
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/opencv-icon.svg" alt="OpenCV" width="55" height="55" />
+<br>OpenCV
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" width="55" alt="Pandas" />
+<br>Pandas
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" width="55" alt="NumPy" />
+<br>NumPy
+</td>
+</tr>
+</table>
 
 ### 🌐 Backend & Web Development
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+<br>Django
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask" />
+<br>Flask
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
+<br>Redis
+</td>
+</tr>
+</table>
 
 ### ⚙️ DevOps & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+<br>AWS
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<br>Docker
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<br>GitHub
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55" width="55" alt="Jupyter" />
+<br>Jupyter
+</td>
+</tr>
+</table>
 
 </div>
 
